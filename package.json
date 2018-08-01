@@ -1,0 +1,12 @@
+{
+  "name": "thinc-ads",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  },
+  "dependencies": {
+    "mdx-deck": "^1.2.2"
+  }
+}
