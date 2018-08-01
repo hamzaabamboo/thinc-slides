@@ -19,7 +19,8 @@ export default {
       height: "70vh"
     },
     h1: {
-      fontWeight: "900"
+      fontWeight: "900",
+      textAlign: "center"
     }
   },
   // custom CSS can be provided to any of the default components:
